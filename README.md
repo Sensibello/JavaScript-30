@@ -1,17 +1,17 @@
 # JavaScript30
 
-30 Day Vanilla JS Coding Challenge 
+<h1> 30 Day Vanilla JS Coding Challenge  </h1>
 
 Follow along here:
 http://sensibello.com/JavaScript-30/
 
-Build 30 things in 30 days with Vanilla JS
+<h2> Build 30 things in 30 days with Vanilla JS </h2>
 
 by Wes Bos
 
-https://JavaScript30.com
+Site: https://JavaScript30.com
 
-https://github.com/wesbos/JavaScript30
+Starter Files: https://github.com/wesbos/JavaScript30
 
 
 | This is a JavaScript practice with JavaScript30 by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries. |
