@@ -2,6 +2,9 @@
 
 30 Day Vanilla JS Coding Challenge 
 
+Follow along here:
+http://sensibello.com/JavaScript-30/
+
 Build 30 things in 30 days with Vanilla JS
 
 https://JavaScript30.com
