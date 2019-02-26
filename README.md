@@ -10,6 +10,9 @@ Build 30 things in 30 days with Vanilla JS
 https://JavaScript30.com
 
 by Wes Bos
+| This is a JavaScript practice with JavaScript30 by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries.|
+
+________ 
 
 # DAILY PROJECTS
 
