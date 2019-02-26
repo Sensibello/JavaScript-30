@@ -7,9 +7,12 @@ http://sensibello.com/JavaScript-30/
 
 Build 30 things in 30 days with Vanilla JS
 
+by Wes Bos
+
 https://JavaScript30.com
 
-by Wes Bos
+https://github.com/wesbos/JavaScript30
+
 
 | This is a JavaScript practice with JavaScript30 by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries. |
 
