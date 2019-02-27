@@ -1,6 +1,18 @@
-Initial 
-Notes
+Initial - Notes
+
+Purpose of the project:
+Add a class of 'playing' to an element. 
+i.e. - hit a key, makes a sound
+
+
 
 Add a class of 'playing' to an element. 
 i.e. - hit a key, makes a sound
 
+Every key on keyboard, there is something called a 'key code'
+It's associated with that 'key' - the sound.
+resource: keycode.info - each key has an associated 'key' with JS
+
+ex: hit '65' - check for 'A' key - assign with JS, assign with data-key and a 'sound'
+
+Data attributes allow this to happen. Data attributes allow to hook up with a data, and then align with a data-key element ('audio' in this case)
