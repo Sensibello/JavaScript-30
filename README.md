@@ -22,7 +22,7 @@ ________
 
 - [x] 1) JavaScript Drum Kit 
   - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/JavaScriptDrumKit
-  - Live Link: 
+  - Live Link: http://sensibello.com/JavaScript-30/challenges/JavaScriptDrumKit/index.html
   
 - [ ] 2) JS and CSS Clock 
 - [ ] 3) CSS Variables  
