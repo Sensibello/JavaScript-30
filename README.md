@@ -21,8 +21,8 @@ ________
 # DAILY PROJECTS
 
 1) JavaScript Drum Kit  [ X ] 
-  Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/JavaScriptDrumKit
-  Live Link: 
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/JavaScriptDrumKit
+  - Live Link: 
 2) JS and CSS Clock [ ] 
 3) CSS Variables [ ] 
 4) Array Cardio Day 1 [ ] 
