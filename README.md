@@ -27,9 +27,9 @@ ________
 - [x] 2) JS and CSS Clock 
   - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/JSandCSSClock
   - Live Link:  http://sensibello.com/JavaScript-30/challenges/JSandCSSClock/index.html
-- [ ] 3) CSS Variables  
-  - Source Code: 
-  - Live Link:  
+- [x] 3) CSS Variables  
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/CSSVariables
+  - Live Link:  http://sensibello.com/JavaScript-30/challenges/CSSVariables/index.html
 - [ ] 4) Array Cardio Day 1 
   - Source Code: 
   - Live Link:  
