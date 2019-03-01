@@ -25,8 +25,8 @@ ________
   - Live Link: http://sensibello.com/JavaScript-30/challenges/JavaScriptDrumKit/index.html
   
 - [ ] 2) JS and CSS Clock 
-  - Source Code: 
-  - Live Link:  
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/JSandCSSClock
+  - Live Link:  http://sensibello.com/JavaScript-30/challenges/JSandCSSClock/index.html
 - [ ] 3) CSS Variables  
   - Source Code: 
   - Live Link:  
