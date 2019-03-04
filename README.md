@@ -30,9 +30,9 @@ ________
 - [x] 3) CSS Variables  
   - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/CSSVariables
   - Live Link:  http://sensibello.com/JavaScript-30/challenges/CSSVariables/index.html
-- [ ] 4) Array Cardio Day 1 
-  - Source Code: 
-  - Live Link:  
+- [x] 4) Array Cardio Day 1 
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/ArrayCardio1
+  - Live Link:  Need to see JS console to view project
 - [ ] 5) Flex Panel Gallery  
   - Source Code: 
   - Live Link:  
