@@ -35,10 +35,10 @@ ________
   - Live Link:  Need to see JS console to view project
 - [x] 5) Flex Panel Gallery  
   - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/FlexPanelGallery
-  - Live Link:  
-- [ ] 6) Type Ahead 
-  - Source Code: 
-  - Live Link:  
+  - Live Link:  http://sensibello.com/JavaScript-30/challenges/FlexPanelGallery/index.html
+- [x] 6) Type Ahead
+  - Source Code:  https://github.com/Sensibello/JavaScript-30/tree/master/challenges/TypeAhead
+  - Live Link:  http://sensibello.com/JavaScript-30/challenges/TypeAhead/index.html
 - [ ] 7) Array Cardio Day 2 
   - Source Code: 
   - Live Link:  
