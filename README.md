@@ -39,18 +39,18 @@ ________
 - [x] 6) Type Ahead
   - Source Code:  https://github.com/Sensibello/JavaScript-30/tree/master/challenges/TypeAhead
   - Live Link:  http://sensibello.com/JavaScript-30/challenges/TypeAhead/index.html
-- [ ] 7) Array Cardio Day 2 
-  - Source Code: 
-  - Live Link:  
-- [ ] 8) Fun with HTML5 Canvas  
-  - Source Code: 
-  - Live Link:  
-- [ ] 9) Dev Tools Domination 
-  - Source Code: 
-  - Live Link:  
-- [ ] 10) Hold Shift and Check Checkboxes 
-  - Source Code: 
-  - Live Link:  
+- [x] 7) Array Cardio Day 2 
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/ArrayCardio2
+  - Live Link:  Need to see JS console to view project
+- [x] 8) Fun with HTML5 Canvas  
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/FunWithHTML5Canvas
+  - Live Link:  http://sensibello.com/JavaScript-30/challenges/FunWithHTML5Canvas/index.html
+- [x] 9) Dev Tools Domination 
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/DevToolsDomination
+  - Live Link:  Need to see JS console to view project
+- [x] 10) Hold Shift and Check Checkboxes 
+  - Source Code: https://github.com/Sensibello/JavaScript-30/tree/master/challenges/HoldShiftCheckCheckboxes
+  - Live Link:  http://sensibello.com/JavaScript-30/challenges/HoldShiftCheckCheckboxes/index.html
 - [ ] 11) Custom Video Player 
   - Source Code: 
   - Live Link:  
